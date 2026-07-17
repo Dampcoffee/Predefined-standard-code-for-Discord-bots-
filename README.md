@@ -27,6 +27,9 @@ Here you'll find:
 ```
 ├── README.md              (English)
 ├── README_DE.md           (Deutsch)
+├── README_CZ.md           (Čeština)
+├── README_FR.md           (Français)
+├── README_IT.md           (Italiano)
 ├── code-snippets/         (Individual code pieces)
 ├── examples/              (Complete examples)
 └── docs/                  (Documentation)
@@ -53,6 +56,9 @@ This project is public – use the code freely!
 
 ---
 
-**Languages / Sprachen:**
+**Languages / Sprachen / Langues / Lingue:**
 - 🇬🇧 [English](README.md) (this file)
 - 🇩🇪 [Deutsch](README_DE.md)
+- 🇨🇿 [Čeština](README_CZ.md)
+- 🇫🇷 [Français](README_FR.md)
+- 🇮🇹 [Italiano](README_IT.md)
