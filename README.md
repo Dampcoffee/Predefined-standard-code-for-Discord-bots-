@@ -1,51 +1,58 @@
 # Predefined Standard Code for Discord Bots
 
-Willkommen! 👋 Dieses Repository enthält vordefinierte Standard-Codes und Snippets für Discord Bot Entwicklung.
+Welcome! 👋 This repository contains predefined standard code and snippets for Discord bot development.
 
-## 📖 Übersicht
+## 📖 Overview
 
-Hier findest du:
-- ✅ Bot-Grundstrukturen
-- ✅ Command-Beispiele
-- ✅ Event-Handler
-- ✅ Best Practices
-- ✅ Hilfreiche Snippets
+Here you'll find:
+- ✅ Bot base structures
+- ✅ Command examples
+- ✅ Event handlers
+- ✅ Best practices
+- ✅ Useful snippets
 
-## 🚀 Schnelleinstieg
+## 🚀 Quick Start
 
-1. **Repository klonen:**
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/Dampcoffee/Predefined-standard-code-for-Discord-bots-.git
    ```
 
-2. **Code durchsuchen und verwenden**
+2. **Browse and use the code**
 
-3. **Bei Fragen:** Nutze die [Discussions](../../discussions)
+3. **Questions?** Use [Discussions](../../discussions)
 
-## 📁 Struktur
+## 📁 Structure
 
 ```
-├── README.md
-├── code-snippets/     (Einzelne Code-Teile)
-├── examples/          (Komplette Beispiele)
-└── docs/              (Dokumentation)
+├── README.md              (English)
+├── README_DE.md           (Deutsch)
+├── code-snippets/         (Individual code pieces)
+├── examples/              (Complete examples)
+└── docs/                  (Documentation)
 ```
 
-## 💡 Wie du dieses Repo nutzt
+## 💡 How to use this repository
 
-- **Code-Snippets ansehen** → Durchsuche die Dateien
-- **Code kopieren** → Für deine eigenen Bots verwenden
-- **Fragen stellen** → Nutze [Discussions](../../discussions)
-- **Verbesserungen** → Erstelle einen [Pull Request](../../pulls)
+- **View code snippets** → Browse the files
+- **Copy code** → Use for your own bots
+- **Ask questions** → Use [Discussions](../../discussions)
+- **Improve** → Create a [Pull Request](../../pulls)
 
-## 🤝 Beitragen
+## 🤝 Contributing
 
-Pull Requests sind willkommen! 
+Pull requests are welcome!
 
-## 📝 Lizenz
+## 📝 License
 
-Dieses Projekt ist public – nutze den Code frei!
+This project is public – use the code freely!
 
 ---
 
-**Viel Spaß beim Bot-Coding!** 🎉
+**Happy bot coding!** 🎉
+
+---
+
+**Languages / Sprachen:**
+- 🇬🇧 [English](README.md) (this file)
+- 🇩🇪 [Deutsch](README_DE.md)
