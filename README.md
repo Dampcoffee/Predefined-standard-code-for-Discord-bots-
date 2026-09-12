@@ -1,4 +1,4 @@
-# Predefined Standard Code for Discord Bots
+# English — Predefined Standard Code for Discord Bots
 
 Welcome! 👋 This repository contains predefined standard code and snippets for Discord bot development.
 
