@@ -72,3 +72,7 @@ This project is public – use the code freely!
 - 🇳🇴 [Norsk](README_NO.md)
 - 🇸🇪 [Svenska](README_SV.md)
 - 🇫🇮 [Suomi](README_FI.md)
+
+---
+
+😊
