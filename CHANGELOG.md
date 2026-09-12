@@ -10,10 +10,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial repository setup
 - Base README documentation in multiple languages (English, Deutsch, Čeština, Français, Italiano)
+- Added Spanish (Español) and Portuguese (Português) README translations
 - Project structure for code snippets, examples, and documentation
+- CHANGELOG.md for update tracking
 
 ### Changed
-- N/A
+- Updated README.md to include Spanish and Portuguese language links
+- Updated all language-specific README files with cross-language links
 
 ### Fixed
 - N/A
